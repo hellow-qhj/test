@@ -1,16 +1,18 @@
 {
-    "name": "ballz/auth",
-    "description": "thinkphp6.0的Auth权限扩展",
+    "name": "test/ali",
+    "description": "ali package",
+    "license": "MIT",
     "authors": [
         {
             "name": "qhj",
             "email": "617070321@qq.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
-            "ballz\\auth\\": "src/"
+            "Test\\Ali\\": "src/"
         }
     }
 }

@@ -1,12 +1,12 @@
 <?php
 
 
-namespace Test\Ali;
+namespace ballz\auth;
 
 
 class Test
 {
-public function sayhello(){
-    echo "hello composer";
-}
+    public function sayhello(){
+        return "hello composer";
+    }
 }

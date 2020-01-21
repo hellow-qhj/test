@@ -1,0 +1,16 @@
+{
+    "name": "ballz/auth",
+    "description": "thinkphp6.0的Auth权限扩展",
+    "authors": [
+        {
+            "name": "qhj",
+            "email": "617070321@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ballz\\auth\\": "src/"
+        }
+    }
+}
